@@ -5,9 +5,9 @@ p{color: aliceblue;}
 h1{text-align: center;}
 h1{color: #f0f8ff;}
 li{color: aliceblue;}
-.omelete{width: 20%;}
+.omelete{width: 30%;}
 header {
     border-bottom: solid;
-    padding: 0%;
-    font-size: 0px;
+    padding: 20%;
+    font-size: 20px;
 }
