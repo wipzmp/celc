@@ -2,12 +2,10 @@ body {background-color: rgba(123, 124, 131, 0.711);}
 
 p{color: aliceblue;}
 .rick {font-style: italic;}
-h1{text-align: center;}
-h1{color: #f0f8ff;}
+h1{text-align: center;
+color: #f0f8ff;}
 li{color: aliceblue;}
 .omelete{width: 30%;}
-header {
-    border-bottom: solid;
-    padding: 20%;
-    font-size: 20px;
-}
+header {border-bottom: #cbcdce;
+padding: 20px;
+font-size: 20px;}
