@@ -6,6 +6,9 @@ h1{text-align: center;
 color: #f0f8ff;}
 li{color: aliceblue;}
 .omelete{width: 30%;}
+h2{color: dimgray;}
 header {border-bottom:solid 3px #cbcdce;
 padding: 20px;
-font-size: 20px;}
+font-size: 20px;
+display: flex;
+justify-content: center;}
